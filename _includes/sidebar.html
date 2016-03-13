@@ -22,7 +22,7 @@
         {% if node.layout == "page" %}
 
         <!-- I added the {{site.baseurl}} below-->
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href=" {{node.url }}">{{ node.title }}</a>
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl}} {{node.url }}">{{ node.title }}</a>
         {% endif %}
       {% endif %}
     {% endfor %}
