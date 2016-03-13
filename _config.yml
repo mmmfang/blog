@@ -5,10 +5,10 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Mae Fang
+title:               'Mae Fang'
 tagline:             'Web Developer'
 description:         'Mae Fang - Blog'
-url:                 http://mmmfang.github.io
+url:                 'http://mmmfang.github.io'
 baseurl:             '/blog'
 paginate:            5
 
