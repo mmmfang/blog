@@ -9,7 +9,7 @@ title:               'Mae Fang'
 tagline:             'Web Developer'
 description:         'Mae Fang - Blog'
 url:                 'http://mmmfang.github.io'
-baseurl:             
+baseurl:             '/blog'
 paginate:            5
 
 # About/contact
