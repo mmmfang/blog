@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-For more information, please visit the [main site](www.maefang.com)
+For more information, please visit the [main site](www.maefang.com).
 
-To build your own blog based on the Lanyon theme, visit the [Github repo](https://github.com/poole/lanyon)
+To build your own blog based on the Lanyon theme, visit the [Github repo](https://github.com/poole/lanyon).
