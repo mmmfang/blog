@@ -21,7 +21,7 @@ I save as JPG files photographs I want to remain high-quality, and many photos i
 
 ## Compress your Images and Image Quality
 
-In Photoshop you can "File-Save for Web" in older versions of Photoshop, or "File-Export-Save for Web" in Photoshop Creative Cloud. That will allow you to save your photo at a lower quality, while giving you a preview screen of exactly how your photo will look. You will find that you may be able to save your photo at Medium quality and it will still look very similar to the original photo! Photos for web are 72dpi and RGB color, so you can change that (as opposed to 300 dpi and CMYK color which is needed for print).
+In Photoshop you can "File-Save for Web" in older versions of Photoshop, or "File-Export-Save for Web" in Photoshop Creative Cloud. That will allow you to save your photo at a lower quality, while giving you a preview screen of exactly how your photo will look. You may find that you can save your photo at Medium quality (or something like 7) and it will still look very similar to the original photo! Photos for web are 72dpi and RGB color, so you can change that (as opposed to 300 dpi and CMYK color which is needed for print).
 
 *Easy method:* Download ImageOptim, a free desktop program for Mac. Right before you upload (after you have used Photoshop or edited your pics), you can drag all of your pics into ImageOptim. ImageOptim will strip the photo of unnecessary metadata - and I've found it often reduces my photo size by 20% or more! You don't even have to then drag your photos out of ImageOptim, it will have updated the original photos!
 
@@ -31,6 +31,6 @@ If you don't have Photoshop, there are free image editing alternatives like PicM
 
 Other suggestions include serving up different sizes of the same image using CSS, Javascript or in your HTML image tags. Or perhaps serving your assets on a content delivery network (CDN) not on your own site. 
 
-This is a good article for learning about image optimization for SEO purposes, and in general
-https://www.shopify.com/blog/7412852-10-must-know-image-optimization-tips
+<a href="https://www.shopify.com/blog/7412852-10-must-know-image-optimization-tips">Here</a> is a good article for learning about image optimization for SEO purposes, and in general. 
+
 
