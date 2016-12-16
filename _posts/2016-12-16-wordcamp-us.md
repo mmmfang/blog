@@ -7,7 +7,7 @@ I recently attended [Wordcamp US](https://2016.us.wordcamp.org), a community con
 
 1. I didn’t know that Wordpress had a mascot. A cute one as well! Let me tell you it was delightful to get a plush Wappuu upon checking into the conference.
 
-2. The sessions were interesting and I found many relevant to what I wanted to learn. All the panels were live-streamed for free, and are available at Wordpress.tv so I can watch the sessions I missed. I appreciate the open knowledge sharing. I took plenty of notes during the <a href=“http://wordpress.tv/2016/12/11/joost-de-valk-wordpress-and-seo-in-2016/“>SEO talk</a> by the founder of Yoast SEO and the session about <a href=“http://wordpress.tv/2016/12/11/maile-ohye-a-view-from-google-the-latest-in-google-and-google/“>Google trends</a>.
+2. The sessions were interesting and I found many relevant to what I wanted to learn. All the panels were live-streamed for free, and are available at Wordpress.tv so I can watch the sessions I missed. I appreciate the open knowledge sharing. I took plenty of notes during the [SEO talk](http://wordpress.tv/2016/12/11/joost-de-valk-wordpress-and-seo-in-2016) by the founder of Yoast SEO and the session about [Google trends](http://wordpress.tv/2016/12/11/maile-ohye-a-view-from-google-the-latest-in-google-and-google).
 
 3. I learned that Wordpress powers over 26% of the web, but is facing competition from competitors like Squarespace, Wix, Weebly, etc. When using those companies’ website updaters, those editors are more visual -  you can make changes directly to your page (instead of having to press the preview button). It is interesting to think about how Wordpress will, or has to, evolve to match the experience provided by other platforms.
 
