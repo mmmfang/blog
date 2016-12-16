@@ -3,6 +3,8 @@ layout: post
 title: Reflections on my First WordCamp
 ---
 
+![Conference swag]({{site.url}}/blog/assets/wordcamp-us-swag.jpg)
+
 I recently attended [Wordcamp US](https://2016.us.wordcamp.org), a community conference for Wordpress. It was a great experience! Here are some things I learned and my impressions of my first (but certainly not last) WordCamp.
 
 1. I didn’t know that Wordpress had a mascot. A cute one as well! Let me tell you it was delightful to get a plush Wappuu upon checking into the conference.
@@ -17,4 +19,3 @@ I recently attended [Wordcamp US](https://2016.us.wordcamp.org), a community con
 
 6. Thanks to the organizers and all involved in WordCamp US to make it a great experience. I feel lucky that it was near enough for me to bus down for a day, and it was nice to bump into two people I know! I have only been developing in Wordpress for a few months (aside from using Wordpress.com for some long-forgotten blogs in college) so it was nice to already feel a part of the Wordpress community. I hope to be able to return for the full Wordcamp US conference experience, and to contribute to Wordpress core during Contributor Day!
 
-![Conference swag]({{site.url}}/blog/assets/wordcamp-us-swag.jpg)
