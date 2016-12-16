@@ -17,4 +17,4 @@ I recently attended [Wordcamp US](https://2016.us.wordcamp.org), a community con
 
 6. Thanks to the organizers and all involved in WordCamp US to make it a great experience. I feel lucky that it was near enough for me to bus down for a day, and it was nice to bump into two people I know! I have only been developing in Wordpress for a few months (aside from using Wordpress.com for some long-forgotten blogs in college) so it was nice to already feel a part of the Wordpress community. I hope to be able to return for the full Wordcamp US conference experience, and to contribute to Wordpress core during Contributor Day!
 
-![Conference swag](../assets/wordcamp-us-swag.jpg)
+![Conference swag]({{site.url}}/blog/assets/wordcamp-us-swag.jpg)
