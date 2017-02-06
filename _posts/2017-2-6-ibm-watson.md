@@ -9,6 +9,6 @@ Also I still am a little concerned with the rising use of artificial intelligenc
 
 So I wanted to learn more about IBM Watson, but wasn’t sure where to start. There are a lot of resources on their website, so many that a starting point isn’t exactly clear. So it was very useful to attend an event put on by IBM Watson, [Coding Cognitive](http://www.acehotel.com/about/coding-cognitive), and have IBM staff on hand to answer questions and explain Watson more in detail. We mostly followed through a [tutorial](https://github.com/watson-developer-cloud/text-bot); though it was fairly straightforward to follow along the tutorial and get a working app up, I wouldn’t have even known how to find this tutorial sans this event. It was also nice to see many female attendees.
 
-![My working weather chatbot!]({{site.url}}/blog/assets/watson-weather-bot.png)
+({{site.url}}/blog/assets/watson-weather-bot.png)My working weather chatbot!
 
 Though my weather app will disappear after my 30 day trial period is up, it was fun to have a working product at the end of an hour or two (though I primarily just followed instructions correctly)! I would like to get through other tutorials before my time is up, in particular the [image recognition one](https://www.ibm.com/us-en/marketplace/learning-lab/use-cases/use-deep-learning-to-analyze-images) and maybe this [Harry Potter one](https://www.ibm.com/us-en/marketplace/learning-lab/use-cases/build-harry-potter-sorting-hat).
